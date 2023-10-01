@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++11 -Wall  -rdynamic CMakeFiles/pa2.dir/main.cc.o CMakeFiles/pa2.dir/treeNode.cc.o CMakeFiles/pa2.dir/tseitinTransformer.cc.o CMakeFiles/pa2.dir/satSolver.cc.o CMakeFiles/pa2.dir/parser.cc.o CMakeFiles/pa2.dir/tokenizer.cc.o -o pa2  minisat/libminisat.a -lz 
